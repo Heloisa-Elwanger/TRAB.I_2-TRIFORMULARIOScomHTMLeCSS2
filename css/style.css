@@ -15,6 +15,5 @@
     color: var(--text-color);
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 }
